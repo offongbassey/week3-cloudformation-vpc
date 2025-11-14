@@ -9,4 +9,4 @@
 - **Routing:** Separate route tables for public and private
 - **Compute:** EC2 instances in public and private subnets
 
-- > See diagrams/vpc-architecture.png and screenshots for details.
+- > See diagrams/vpc-architecture.png and screenshots for details
